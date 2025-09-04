@@ -57,7 +57,15 @@
 <br/>
 <hr/> 
 
-
+<div align="center">
+  <h2>The technical skills that i working on it right now<h2>
+  <br>
+  [![Git] git command]
+  [![C programming] C programming]
+  [![GitHub]]
+  [![Working with a team]]
+  <br/>
+</div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
